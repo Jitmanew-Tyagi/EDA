@@ -1,1 +1,1 @@
-# LoanPred
+# EDA
